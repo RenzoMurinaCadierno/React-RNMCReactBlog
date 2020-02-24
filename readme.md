@@ -27,9 +27,9 @@ Instructions
 
 Either go to [my hosted working example](https://rnmcreactblog.web.app/) or clone the repository yourself.
 
-If you clone it, then just `npm init` to install everything in node_modules/ and `npm start` to launch *parcel.js*.
+If you clone it, then just `npm init` to install everything in node_modules/ and `npm start` to launch *parcel.js*. Be sure to create your own firebase project to it as well as to modify firebase.js to include your firebase database configs. The app will not work otherwise.
 
-The app will be served at *localhost:1234*
+The app will be served at *localhost:1234*.
 
 As a **non-logged-in user** you can:
 
