@@ -2,13 +2,13 @@ require('firebase/firestore')
 import firebase from 'firebase'
 
 var firebaseConfig = {
-  apiKey: "AIzaSyCj3lv_2jqmzQ6jIZXmioAVBC60xebYJHY",
+  apiKey: "no sensitive info here",
   authDomain: "rnmcreactblog.firebaseapp.com",
-  databaseURL: "https://rnmcreactblog.firebaseio.com",
+  databaseURL: "no sensitive info here",
   projectId: "rnmcreactblog",
   storageBucket: "rnmcreactblog.appspot.com",
-  messagingSenderId: "190191918796",
-  appId: "1:190191918796:web:54fc7358d2fac8af7a6c69"
+  messagingSenderId: "no sensitive info here",
+  appId: "no sensitive info here"
 };
 
 // Initialize Firebase
